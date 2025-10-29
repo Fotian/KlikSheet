@@ -48,7 +48,7 @@ Enterprise-grade spreadsheet editing, writeback, collaboration, and budgeting
   - Persist edits via **REST** and **MSSQL**; trigger reloads to update Qlik visualizations  
 
   <p align="center">
-   <img src="https://github.com/Fotian/partial-reload.gif"
+   <img src="https://github.com/Fotian/partial-reload.gif/blob/main/WriteBackKliksheet-ezgif.com-resize.gif?raw=true"
      alt="KlikSheet Writeback Functionality" width="720" />
     <br />
     <em>Writeback example – live data entry synced back to Qlik Sense</em>
