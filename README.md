@@ -10,9 +10,9 @@ Enterprise-grade spreadsheet editing, writeback, collaboration, and budgeting
 </p>
 
 <p align="center">
-  <a href="#">Made for Qlik Sense</a> •
-  <a href="#">Writeback Enabled</a> •
-  <a href="#">Enterprise Ready</a>
+  <a href="https://www.qlik.com/us/products/qlik-sense">Made for Qlik Sense</a> •
+  <a href="https://www.youtube.com/watch?v=hYER2nGKctM">Writeback Enabled</a> •
+  <a href="https://applybi.com/products/kliksheet">Enterprise Ready</a>
 </p>
 
 ---
