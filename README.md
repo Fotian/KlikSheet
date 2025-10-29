@@ -103,46 +103,46 @@ KlikSheet ships as a signed Qlik Sense extension.
 ## Documentation Index (handy links)
 
 - **Ribbon Menu (features & options):**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Ribbon-Menu-Breakdown.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/RibbonMenuBreakdown.html
 
 - **Multi-User Functionality:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Multi-Userfunctionality.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/MultiUserfunctionality.html
 
 - **Use of Versions (Version Control & Drafts):**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Use-of-Versions.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/UseofVersions.html
 
 - **System Requirements:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/System-Requirements.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/SystemRequirements.html
 
 - **Software Architecture:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Software-Architecture.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/SoftwareArchitecture.html
 
 - **Writeback & Reload Options (Three-Dots Menu):**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Three-dots-menu.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Threedotsmenu.html
 
 - **Data Editing & Validation:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Does-Kliksheet-supports-Data-Editing-Validation.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/DoesKliksheetsupportsDataEditing.html
 
 - **Excel Compatibility & Pivot Tables:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/What-is-KlikSheets-compatibility-with-Microsoft-Excel.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/WhatisKlikSheetscompatibilitywit.html
 
 - **Budget Drafting & Forecasting:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Can-KlikSheet-be-used-for-budget-drafting.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/CanKlikSheetbeusedforbudgetdraft.html
 
 - **Calculations & Formulas:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Calculations-within-KlikSheet.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/CalculationswithinKlikSheet.html
 
 - **Reload Efficiency (Partial & Full):**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Is-Kliksheet-efficient-when-it-comes-to-the-need-to-reload-Qlik-apps.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/IsKliksheetefficientwhenitcomest.html
 
 - **Upload External Excel Files:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Upload-external-Excel-spreadsheet-directly-into-Qlik-Sense.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/UploadexternalExcelspreadsheetdi.html
 
 - **Manipulate Qlik Data Directly:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Manipulate-data-directly-into-Qlik-Sense-app.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/ManipulatedatadirectlyintoQlikSe.html
 
 - **Paste Qlik Data into KlikSheet:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Paste-Qlik-data-into-KlikSheet.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/PasteQlikdataintoKlikSheet.html
 
 
 
