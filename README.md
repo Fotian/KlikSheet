@@ -106,7 +106,7 @@ KlikSheet ships as a signed Qlik Sense extension.
   https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/RibbonMenuBreakdown.html
 
 - **Multi-User Functionality:**  
-  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/MultiUserfunctionality.html
+  https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Multi-Userfunctionality.html
 
 - **Use of Versions (Version Control & Drafts):**  
   https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/UseofVersions.html
