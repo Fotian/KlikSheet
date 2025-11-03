@@ -95,7 +95,7 @@ KlikSheet ships as a signed Qlik Sense extension.
 3. Add the KlikSheet object to your sheet and connect to your app model.
 4. (Optional) Enable multi-user mode, versioning, and writeback options.
 
-📗 Full guide: https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Installation-Guide.html
+📗 Full guide: https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/InstallationGuide.html
 
 ---
 
