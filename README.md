@@ -98,4 +98,61 @@ Enterprise-grade spreadsheet editing, writeback, collaboration, and budgeting
 7. [Writeback & Integration](https://www.youtube.com/watch?v=Jc0HIBqcFrg)
 
 More examples & screenshots:  
-➡️
+➡️ [ApplyBI YouTube Channel](https://www.youtube.com/@applybi8437)
+
+---
+
+## Installation
+
+KlikSheet ships as a signed Qlik Sense extension.
+
+1. Import the extension via QMC (on-prem) or Qlik Cloud hub.  
+2. Configure the **KlikSheet Backend (IIS)** and **MSSQL** connection.  
+3. Add the KlikSheet object to your sheet and connect to your app model.  
+4. (Optional) Enable multi-user mode, versioning, and writeback options.
+
+📗 [Full Installation Guide](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/InstallationGuide.html)
+
+---
+
+## Documentation Index (handy links)
+
+- [Ribbon Menu (features & options)](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/RibbonMenuBreakdown.html)  
+- [Multi-User Functionality](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Multi-Userfunctionality.html)  
+- [Use of Versions (Version Control & Drafts)](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/UseofVersions.html)  
+- [System Requirements](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/SystemRequirements.html)  
+- [Software Architecture](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/SoftwareArchitecture.html)  
+- [Writeback & Reload Options (Three-Dots Menu)](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/Threedotsmenu.html)  
+- [Data Editing & Validation](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/DoesKliksheetsupportsDataEditing.html)  
+- [Excel Compatibility & Pivot Tables](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/WhatisKlikSheetscompatibilitywit.html)  
+- [Budget Drafting & Forecasting](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/CanKlikSheetbeusedforbudgetdraft.html)  
+- [Calculations & Formulas](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/CalculationswithinKlikSheet.html)  
+- [Reload Efficiency (Partial & Full)](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/IsKliksheetefficientwhenitcomest.html)  
+- [Upload External Excel Files](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/UploadexternalExcelspreadsheetdi.html)  
+- [Manipulate Qlik Data Directly](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/ManipulatedatadirectlyintoQlikSe.html)  
+- [Paste Qlik Data into KlikSheet](https://teddevsrv.biqcloud.com:4433/KlikSheetHelp/PasteQlikdataintoKlikSheet.html)
+
+---
+
+## Support
+
+- ✉️ info@envision.gr  
+- 🌐 [Envision](https://www.envision.gr/en-us)  
+- 🌐 [ApplyBI](https://applybi.com/Products/KlikSheet)  
+- 🤖 [KlikSheet Assistant bot](https://chatgpt.com/g/g-68becbb29010819185cf07d73bbe4b93-kliksheet-assistant)
+
+For feature confirmations or **custom requests**, please contact Envision/ApplyBI Support.
+
+---
+
+## License
+
+KlikSheet is a **commercial extension for Qlik Sense**.  
+Request a quote or demo: info@envision.gr
+
+---
+
+## Credits
+
+Built by **Envision** & **ApplyBI**.  
+Qlik® and Qlik Sense® are trademarks of QlikTech International AB.
